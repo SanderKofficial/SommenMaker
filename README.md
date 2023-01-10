@@ -1,2 +1,2 @@
 # SommenMaker
-A dutch sum making tool made in unity.
+You make a new project and copy all these assets files in your unity project. and done!
